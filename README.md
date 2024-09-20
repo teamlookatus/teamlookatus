@@ -1,0 +1,3 @@
+- 👋 Hi, we are @teamlookatus
+- 👀 We are interested in automated systematic trading
+- 
